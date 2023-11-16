@@ -1,0 +1,515 @@
+*{
+    margin: 0; 
+}
+.main{
+    max-width: 1411px;
+    justify-content: space-around;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(226, 226, 224);
+}
+.title{
+    color: gray;
+    font-family: sans-serif;
+}
+.card1{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card1>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+}
+
+.main__row{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+.location{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card1................................................. */
+
+.card2{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card2>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text2{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.main__row2{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate2{
+    display: flex;
+    align-items: center;
+}
+.location2{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list2>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card2................................................... */
+.card3{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card3>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text3{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.main__row3{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate3{
+    display: flex;
+    align-items: center;
+}
+.location3{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list3>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card3................................................. */
+.card4{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card4>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text4{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.main__row4{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate4{
+    display: flex;
+    align-items: center;
+}
+.location4{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list4>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card4.......................................... */
+.card5{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card5>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text5{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+}
+
+.main__row5{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate5{
+    display: flex;
+    align-items: center;
+}
+.location5{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list5>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card5..................................... */
+.card6{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card6>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text6{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.main__row6{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate6{
+    display: flex;
+    align-items: center;
+}
+.location6{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list6>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card6.................................. */
+.card7{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card7>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text7{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.main__row7{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate7{
+    display: flex;
+    align-items: center;
+}
+.location7{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list7>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card7........................................... */
+.card8{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card8>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text8{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.main__row8{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate8{
+    display: flex;
+    align-items: center;
+}
+.location8{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list8>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card8........................................... */
+.card9{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card9>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text9{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.main__row9{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate9{
+    display: flex;
+    align-items: center;
+}
+.location9{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list9>a{
+   color: gray;
+   text-decoration: none;
+}
+/* card9..................................... */
+.card10{
+    max-width: 259px;
+    height: 367px;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.button__card10>button{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #e7d3e6;
+    color: purple;
+    display: inline-block;
+    padding: 6px 8px;
+    border: none; 
+    margin-left: 14px;
+    margin-top: 14px;
+    font-size: 12px;   
+}
+.text10{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-right: 14px ;
+    font-weight: 50px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.main__row10{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 14px 8px 14px;
+}
+.rate10{
+    display: flex;
+    align-items: center;
+}
+.location10{
+    padding: 0 14px 0 14px;
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list10>a{
+   color: gray;
+   text-decoration: none;
+}
